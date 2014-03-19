@@ -127,7 +127,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#535353</string>
+				<string>#446fbd</string>
 			</dict>
 		</dict>
 		<dict>
@@ -140,7 +140,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#535353</string>
+				<string>#446fbd</string>
 			</dict>
 		</dict>
 		<dict>
@@ -457,7 +457,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 			</dict>
- 
+
 		</dict>
 		<dict>
 			<key>name</key>
